@@ -29,15 +29,18 @@ class Experience extends Component {
           );
         });
         return (
-          <VerticalTimelineElement
+          <VerticalTimelineElement style={{ fontSize: "100%", marginTop: "4px" }}
             className="vertical-timeline-element--work"
+            
             date={work.years}
             iconStyle={{
               background: "#AE944F",
               color: "#fff",
               textAlign: "center",
-            }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            }
+          
+          }
+            icon={<i className="fab fa-python experience-icon"></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>

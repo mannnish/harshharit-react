@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "I'm Harsh Harit. I'm working with newest front-end frameworks like React and Bootstrap. I am a flutter developer and a google cloud platform expert.I work with languages like C++, Dart, Python, Javascript. I like to learn and implement new things. My Hobbies are playing pc games,listening to music and badminton. Thank You 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,37 +81,29 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Antrix Academy",
+        "title": "Junior Developer Intern",
+        "years": "7.2020 - 12.2020",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Data Analytics",
+          "Machine Learning",
+          "NumPy",
+          "PyCharm"
         ]
       },
       {
         "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "title": "Flutter Developer Intern",
+        "years": "05.2021 - 08.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Flutter"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Dart",
+          "App.Development"
         ]
       }
     ]
